@@ -1,0 +1,22 @@
+John Doe
+Email: john.doe@email.com
+Phone: +1 555-123-4567
+LinkedIn: https://linkedin.com/in/johndoe
+
+Summary
+Machine Learning Engineer with 4 years of experience in NLP, model deployment, and data-driven product development.
+
+Experience
+- Developed NLP pipelines using Python, spaCy, and scikit-learn for document classification.
+- Implemented REST APIs for model serving and improved inference latency by 30%.
+- Built dashboards in Streamlit to track model quality metrics.
+- Optimized data preprocessing workflows and reduced processing time by 40%.
+
+Education
+Master of Science in Computer Science
+
+Skills
+Python, SQL, NLP, Machine Learning, AWS, Docker, Git, Streamlit, scikit-learn
+
+Certifications
+AWS Certified Cloud Practitioner

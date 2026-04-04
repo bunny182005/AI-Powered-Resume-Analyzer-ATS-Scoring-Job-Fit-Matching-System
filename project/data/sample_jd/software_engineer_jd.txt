@@ -1,0 +1,14 @@
+We are hiring a Machine Learning Engineer to build NLP-powered products.
+
+Requirements:
+- 3+ years of experience in Python and SQL
+- Strong understanding of machine learning, deep learning, and NLP
+- Experience with scikit-learn, spaCy, and Streamlit
+- Hands-on experience with AWS, Docker, Kubernetes
+- Ability to design REST APIs and deploy ML services
+- Strong communication and collaboration skills
+
+Preferred:
+- Experience with TensorFlow or PyTorch
+- Bachelor's or Master's degree in Computer Science or related field
+- AWS Certified or equivalent certification
