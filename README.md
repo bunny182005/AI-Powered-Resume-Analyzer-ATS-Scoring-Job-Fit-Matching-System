@@ -148,21 +148,3 @@ If you like this project, give it a star ⭐
 📜 License
 
 MIT License
-
-💡 Final Note
-
-This project simulates how modern AI-driven hiring systems work.
-
-
----
-
-# 🚀 WHAT TO DO NOW
-
-1. Create a file:
-```bash
-README.md
-Paste the above content
-Push:
-git add README.md
-git commit -m "Added professional README"
-git push
