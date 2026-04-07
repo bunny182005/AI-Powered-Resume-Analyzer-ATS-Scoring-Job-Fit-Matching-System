@@ -38,11 +38,13 @@ OptiMatch is an AI-powered ATS (Applicant Tracking System) that evaluates your r
 
 ## 🖼️ Demo
 
+![Login View](assets/login.png)
+
 ![Analyse View](assets/analyse.png)
 
 ![Final View](assets/final.png)
 
-![Login View](assets/login.png)
+
 
 ---
 
